@@ -4,7 +4,6 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-using System;
 using Microsoft.Data.SqlClient; 
 
 namespace LoanManagementLibrary.util
